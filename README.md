@@ -4,6 +4,4 @@ Calculadora simples desenvolvida usando as linguagens HTML, CSS e JavaScript. Fo
 
 Este projeto tem como objetivo colocar em prática os meus conhecimentos nas tecnologias citadas.
 
-**Resultado final do projeto:**
-
-![Captura de tela da calculadora](./resultado.jpeg)
+Link do projeto no CodePen: https://codepen.io/sergiodantasz/full/yLqgzzg
