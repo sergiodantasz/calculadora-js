@@ -78,7 +78,10 @@ function Calculadora() {
     });
   };
 
-  this.adicionaFuncionalidadesBotoes();
+  this.inicia = function () {
+    this.adicionaFuncionalidadesBotoes();
+  };
 }
 
-new Calculadora();
+const calculadora = new Calculadora();
+calculadora.inicia();
